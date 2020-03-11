@@ -1,19 +1,11 @@
-# IIoT CIM UPC
+# IIoT_CIM_UPC
 Explaining Git
 
-## Improving markdown examples
-### Bold
-**bold text example**
+## El Ferran fa canvis gfdsgiejhwtr
+body text
 
-### Italic
-*italic text example*
+## el Yair fa canvis 
+bodytext
 
-### JSON Code
-```json
-{"some json code": "example", "number": 56}
-```
 
-### Steps 
-1. Step1
-1. Step2
-1. Step3
+test
